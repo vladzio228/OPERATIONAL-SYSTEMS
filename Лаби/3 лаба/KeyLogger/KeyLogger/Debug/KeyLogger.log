@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Mary\source\repos\KeyLogger\KeyLogger\main.cpp(34,42): error C2664: "int GetWindowTextW(HWND,LPWSTR,int)": невозможно преобразовать аргумент 2 из "char [256]" в "LPWSTR"
+C:\Users\Mary\source\repos\KeyLogger\KeyLogger\main.cpp(34,29): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8923,1): message : см. объявление "GetWindowTextW"
+C:\Users\Mary\source\repos\KeyLogger\KeyLogger\main.cpp(40,20): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
