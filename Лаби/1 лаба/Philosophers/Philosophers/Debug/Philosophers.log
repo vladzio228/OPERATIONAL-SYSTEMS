@@ -1,0 +1,3 @@
+﻿  Philosophers.cpp
+C:\Users\User\Desktop\Універ\3 курс\ОС\Лаби\1 лаба\Philosophers\Philosophers\Philosophers.cpp(9,28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Philosophers.vcxproj -> C:\Users\User\Desktop\Універ\3 курс\ОС\Лаби\1 лаба\Philosophers\Debug\Philosophers.exe
